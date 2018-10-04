@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo "Today is " . date("Y/m/d") . "<br>"; ?> 
+ <?php echo "Today is " . date("d/m/Y") . "<br>"; ?> 
  </body>
 </html>
